@@ -1,6 +1,6 @@
 # hello_world.py
 
-def main():
+def main(aws):
     print("Hello, World!")
 
 if __name__ == "__main__":
